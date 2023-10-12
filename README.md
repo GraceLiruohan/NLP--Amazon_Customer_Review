@@ -4,6 +4,8 @@ In this project, I delve deep into the world of Amazon reviews, leveraging cutti
 
 ## EDA
 *1st Insight – Time-series Analysis : Quantity does not equate to quality and older reviews are more helpful. ​
+
 *2nd Insight – Review Text Analysis ​: Helpful reviews are ~3X lengthier compared to not helpful reviews​.
+
 *3rd Insight – Sentiment Analysis​ : Helpful reviews tend to strike on  a well-balanced blend of objectivity and subjectivity.
 
