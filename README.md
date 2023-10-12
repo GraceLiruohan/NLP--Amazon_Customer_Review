@@ -8,5 +8,19 @@ In this project, I delve deep into the world of Amazon reviews, leveraging cutti
 *2nd Insight – Review Text Analysis ​: Helpful reviews are ~3X lengthier compared to not helpful reviews​.
 
 *3rd Insight – Sentiment Analysis​ : Helpful reviews tend to strike on  a well-balanced blend of objectivity and subjectivity.
+
 <img width="490" alt="Screen Shot 2023-10-12 at 10 31 01 AM" src="https://github.com/GraceLiruohan/NLP--Amazon_Customer_Review/assets/139920767/12d3ef9c-2a69-41d1-9330-21ac3479faea">
+
+## Model Building -- lightGBM
+
+*Text Preprocessing:​ Tokenizer / normalizer / stopwords remover / lemmatizer / finisher​, N-grams​, Embeddings​, Assembler​, Scaler ​
+
+*Data Prep:​ Combined Review & Summary​, Verified, Overall​, Date features​, Count features (reviewer and product)​, Polarity and Sentiment features​, Length of text features​
+
+## Key Observation and Conclusion
+
+*The right balance between objectivity and subjectivity increases the chances of readers finding the review personal and informative, in other words, trustworthy. 
+
+*The reviews with negative polarity scores account for the highest ratio of helpful reviews. 
+
 
